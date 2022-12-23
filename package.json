@@ -1,0 +1,24 @@
+{
+  "name": "goit-js-hw-08",
+  "version": "1.0.0",
+  "description": "JS",
+  "main": "index.js",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aniyavolfman/goit-js-hw-08.git"
+  },
+  "author": "Anna Volfman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aniyavolfman/goit-js-hw-08/issues"
+  },
+  "homepage": "https://github.com/aniyavolfman/goit-js-hw-08#readme",
+  "devDependencies": {
+    "parcel": "^2.8.2"
+  }
+}
