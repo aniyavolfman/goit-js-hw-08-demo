@@ -20,5 +20,8 @@
   "homepage": "https://github.com/aniyavolfman/goit-js-hw-08#readme",
   "devDependencies": {
     "parcel": "^2.8.2"
+  },
+  "dependencies": {
+    "simplelightbox": "^2.11.0"
   }
 }
