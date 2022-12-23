@@ -2,7 +2,7 @@
   "name": "goit-js-hw-08",
   "version": "1.0.0",
   "description": "JS",
-  "main": "./src/index.js",
+  "main": "main.js",
   "source": "./src/index.html",
   "scripts": {
     "start": "parcel",
