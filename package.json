@@ -15,9 +15,9 @@
   "author": "Anna Volfman <aniya_07@ukr.net>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aniyavolfman/goit-js-hw-08"
+    "url": "https://github.com/aniyavolfman/goit-js-hw-08/"
   },
-  "homepage": "https://github.com/aniyavolfman/goit-js-hw-08",
+  "homepage": "https://github.com/aniyavolfman/goit-js-hw-08/src/index.html",
   "devDependencies": {
     "parcel": "^2.8.2"
   },
