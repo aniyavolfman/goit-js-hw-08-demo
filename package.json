@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/aniyavolfman/goit-js-hw-08/"
   },
-  "homepage": "https://github.com/aniyavolfman/goit-js-hw-08/src/index.html",
+  "homepage": "https://github.com/aniyavolfman/goit-js-hw-08/",
   "devDependencies": {
     "parcel": "^2.8.2"
   },
