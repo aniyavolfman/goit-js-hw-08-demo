@@ -1,4 +1,4 @@
-import throttle from 'lodash.throttle';
+import throttle from '/node_modules/lodash.throttle';
 
 const STORAGE_KEY = 'feedback-form-state';
 
