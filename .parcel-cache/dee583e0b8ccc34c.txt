@@ -69,7 +69,7 @@
 61D:\projects\goit-js-hw-08\node_modules\yaml\dist\parse-cst.js133162875031031937 0
 71D:\projects\goit-js-hw-08\node_modules\@swc\helpers\lib\_ts_decorate.js133162875041887291 0
 70D:\projects\goit-js-hw-08\node_modules\caniuse-lite\data\regions\AR.js133162875033286286 0
-40D:\projects\goit-js-hw-08\js\02-video.js133163709701390316 0
+40D:\projects\goit-js-hw-08\js\02-video.js133163949925396576 0
 42D:\projects\goit-js-hw-08\03-feedback.html133161146600000000 0
 64D:\projects\goit-js-hw-08\node_modules\@parcel\fs\lib\browser.js133162875244987237 0
 44D:\projects\goit-js-hw-08\node_modules\chalk133162875021209240 1
@@ -95,7 +95,7 @@
 94D:\projects\goit-js-hw-08\node_modules\caniuse-lite\data\features\es6-module-dynamic-import.js133162875053888549 0
 75D:\projects\goit-js-hw-08\node_modules\lmdb\dependencies\lz4\lib\lz4frame.h133162875045498471 0
 84D:\projects\goit-js-hw-08\node_modules\caniuse-lite\data\features\permissions-api.js133162875064069451 0
-30D:\projects\goit-js-hw-08\dist133163943777781447 1
+30D:\projects\goit-js-hw-08\dist133163950120978662 1
 67D:\projects\goit-js-hw-08\node_modules\entities\lib\encode.d.ts.map133162875029511577 0
 72D:\projects\goit-js-hw-08\node_modules\escape-string-regexp\package.json133162875011932786 0
 87D:\projects\goit-js-hw-08\node_modules\lmdb\node_modules\node-addon-api\tools\README.md133162875030631850 0
@@ -2005,7 +2005,7 @@
 61D:\projects\goit-js-hw-08\node_modules\json5\lib\stringify.js133162875027279837 0
 58D:\projects\goit-js-hw-08\node_modules\json5\dist\index.js133162875022932762 0
 60D:\projects\goit-js-hw-08\node_modules\@parcel\optimizer-css133162875135718292 1
-58D:\projects\goit-js-hw-08\dist\03-feedback.fdd1ec6d.js.map133163943776851380 0
+58D:\projects\goit-js-hw-08\dist\03-feedback.fdd1ec6d.js.map133163950120968650 0
 59D:\projects\goit-js-hw-08\node_modules\json5\dist\index.mjs133162875030791914 0
 75D:\projects\goit-js-hw-08\node_modules\@swc\helpers\lib\_to_property_key.js133162875041807278 0
 85D:\projects\goit-js-hw-08\node_modules\@parcel\node-resolver-core\lib\NodeResolver.js133162875041487236 0
@@ -4247,7 +4247,7 @@
 53D:\projects\goit-js-hw-08\dist\index.101ee4ef.css.map133162988060824869 0
 48D:\projects\goit-js-hw-08\node_modules\.bin\svgo133162875584285289 0
 52D:\projects\goit-js-hw-08\node_modules\.bin\svgo.cmd133162875584285289 0
-43D:\projects\goit-js-hw-08\js\03-feedback.js133163943770785826 0
+43D:\projects\goit-js-hw-08\js\03-feedback.js133163950042399542 0
 53D:\projects\goit-js-hw-08\dist\01-gallery.3c638b0b.js133163943777131405 0
 57D:\projects\goit-js-hw-08\dist\01-gallery.53390864.js.map133162988060824869 0
 54D:\projects\goit-js-hw-08\dist\01-gallery.6665713d.css133163898112215693 0
@@ -4258,8 +4258,8 @@
 53D:\projects\goit-js-hw-08\dist\01-gallery.c1195ceb.js133163898112295711 0
 51D:\projects\goit-js-hw-08\dist\02-video.a74b541c.js133162988060654854 0
 55D:\projects\goit-js-hw-08\dist\02-video.a74b541c.js.map133162988060824869 0
-51D:\projects\goit-js-hw-08\dist\02-video.cc7354fd.js133163943777131405 0
-55D:\projects\goit-js-hw-08\dist\02-video.cc7354fd.js.map133163943777191396 0
+51D:\projects\goit-js-hw-08\dist\02-video.cc7354fd.js133163950120808632 0
+55D:\projects\goit-js-hw-08\dist\02-video.cc7354fd.js.map133163950120968650 0
 44D:\projects\goit-js-hw-08\dist\02-video.html133163943777761439 0
 54D:\projects\goit-js-hw-08\dist\03-feedback.0dc59222.js133163898112215693 0
 58D:\projects\goit-js-hw-08\dist\03-feedback.0dc59222.js.map133163898112535794 0
@@ -4267,7 +4267,7 @@
 59D:\projects\goit-js-hw-08\dist\03-feedback.4e726dee.css.map133163943776851380 0
 54D:\projects\goit-js-hw-08\dist\03-feedback.5440b4f4.js133162988060654854 0
 55D:\projects\goit-js-hw-08\dist\03-feedback.f9c55bc8.css133163898112215693 0
-54D:\projects\goit-js-hw-08\dist\03-feedback.fdd1ec6d.js133163943776681375 0
+54D:\projects\goit-js-hw-08\dist\03-feedback.fdd1ec6d.js133163950120858652 0
 47D:\projects\goit-js-hw-08\dist\03-feedback.html133163943777771441 0
 52D:\projects\goit-js-hw-08\dist\index.4d6bcbeb.js.map133162988060824869 0
 52D:\projects\goit-js-hw-08\dist\index.975ef6c8.js.map133162964094232400 0
