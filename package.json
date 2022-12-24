@@ -2,11 +2,10 @@
   "name": "goit-js-hw-08",
   "version": "1.0.0",
   "description": "JS",
-  "main": "main.js",
   "source": "./index.html",
   "scripts": {
-    "start": "parcel",
-    "build": "parcel build"
+    "start": "parcel *.html",
+    "build": "parcel build *.html --public-url /goit-js-hw-08/"
   },
   "repository": {
     "type": "git",
