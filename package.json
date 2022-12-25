@@ -5,18 +5,18 @@
   "source": "index.html",
   "scripts": {
     "start": "parcel *.html",
-    "build": "parcel build *.html --public-url /goit-js-hw-08"
+    "build": "parcel build *.html --public-url /goit-js-hw-08-demo"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aniyavolfman/goit-js-hw-08.git"
+    "url": "git+https://github.com/aniyavolfman/goit-js-hw-08-demo.git"
   },
   "author": "Anna Volfman <aniya_07@ukr.net>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aniyavolfman/goit-js-hw-08/"
+    "url": "https://github.com/aniyavolfman/goit-js-hw-08-demo/"
   },
-  "homepage": "https://github.com/aniyavolfman/goit-js-hw-08/",
+  "homepage": "https://github.com/aniyavolfman/goit-js-hw-08-demo/",
   "devDependencies": {
     "parcel": "^2.8.2"
   },
